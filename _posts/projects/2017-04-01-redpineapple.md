@@ -30,11 +30,11 @@ images:
     alt: "Red Pineapple website on a mobile device"
 ---
 <p>Los 'frese' (plural de 'fresa'), un tipo de pan de trigo candeal de Calabria, frise o friselle en Puglia y freselle en Nápoles. Una receta antigua de la cocina tradicional y rural que se remonta al pasado de esta región italiana. Se obtiene a partir de panes en forma de rosquilla, primero horneados, luego cortados por la mitad, tostados y secos, para que resulten, crujientes y ligeros.</p> 
-
+</br> 
 <p>Un producto ideal, tanto solo en el lugar del pan,  asi como también combinado con otros ingredientes. Son excelentes como base para sabrosas 'bruschette', frotados con ajo, hidratados con pomodoro (quizas, con tomate y/o palta cortados en cubitos), albahca y aceite de oliva.</p>
-
+</br> 
 
 <p>Al estar secos es posible conservarlos durante mucho tiempo y, porlo tanto, más fáciles de utilizar, en comparación con el pan casero.</p> 
-
+</br> 
 <p>Se pueden conseguir en La Pompeya, una panaderia Italiana ubicada en avenida Independencia, en el barrio de San Cristobal, CABA.</p> 
 
