@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/redpineapple/fresse.jpg"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
