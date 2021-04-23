@@ -5,6 +5,7 @@ description: "In 1493, explorer Christopher Columbus found pineapples on Guadelo
 keywords: "foto producto, comida, vegan, fotografia, crudivegano, cultura sustentable"
 email: "yamilamiglioranza40@gmail.com"
 linkedin: "https://www.linkedin.com/in/yamila-miglioranza-02a06a210/"
+behance: "https://www.behance.net/yammiglioranza"
 instagram: "https://www.instagram.com/fotoprovecho/"
 github: "https://github.com/provecho/"
 
@@ -15,3 +16,5 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+
+
