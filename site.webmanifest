@@ -1,4 +1,3 @@
-{
     "name": "",
     "short_name": "",
     "icons": [
@@ -14,9 +13,32 @@
         }
     ],
     "theme_color": "#ffffff",
-    "theme_color": "#1DD561",
     "background_color": "#ffffff",
-    "background_color": "#1DD561",
-    "display": "standalone"
+    "display": "standalone",
+
+    "paleta":{
+      "white":{
+         "HEX": "#FFFFFF",
+         "RGB": "255,255,255"
+      },
+      "special":
+         "HEX": "#CBE86B",
+         "RGB": "203,232,107"
+      },
+      "write":{
+         "HEX": "#F2E9E1",
+         "RGB": "242,233,225"
+      },
+      "karma":{
+         "HEX": "#1C140D",
+         "RGB": "28,20,13"
+      },
+      "special":{
+          "HEX": "#CBE86B",
+          "RGB": "203,232,107"
+      }
+    }
 }
+
+
 
