@@ -53,11 +53,17 @@ a {
 	text-decoration: none;
 }
 
+article{
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style-type: disc;	
+		margin-left:20px;
+	}
+}
 ul {
 	margin: 0;
 	padding: 0;
-	list-style-type: disc;	
-	margin-left:20px;
 }
 
 img {
